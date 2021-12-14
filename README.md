@@ -11,7 +11,8 @@ Probably some day I'll make another version of this, but, with more functionalit
 # A little remember
 I'm brazilian, so the program accepts the CPF as document. I've made a parser to accept this, not any type of north american national document.  
 I'll probably do something like this later.
-The parser accepts exactly 11 characters and it will parse the '.' and '-' and then finnaly delets it (if it exists in the input).
+The parser accepts exactly 11 characters and it will parse the '.' and '-' and then finally delets it (if it exists in the input).
 
 # What if I want to run it?
-Okay. Good point, quick answere: `git clone https://github.com/adal877/simple-bank-simulation.git && cd simple-bank-simulation && make && ./my-bank`.
+Okay. Good point, quick answer:  
+`git clone https://github.com/adal877/simple-bank-simulation.git && cd simple-bank-simulation && make && ./my-bank`
